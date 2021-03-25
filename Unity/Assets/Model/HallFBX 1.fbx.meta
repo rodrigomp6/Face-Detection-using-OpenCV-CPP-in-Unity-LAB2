@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 202fc0472d8021e45b6352fb910e2d4f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BP_Book_Inspection9_4
+    100002: BP_Table_Lamp_6
+    100004: Camera
+    100006: Camera 1
+    100008: Camera 2
+    100010: Camera 3
+    100012: Camera 4
+    100014: Door
+    100016: Door 1
+    100018: Door 2
+    100020: Door 3
+    100022: Door 4
+    100024: //RootNode
+    100026: Handle
+    100028: Handle 1
+    100030: Handle 2
+    100032: Handle 3
+    100034: Handle 4
+    100036: InteractiveMirror_0
+    100038: joint1
+    100040: joint2
+    100042: KeyDoorSingle2_2
+    100044: KeyDoorSingle7
+    100046: KeyDoorSingle8
+    100048: KeyDoorSingle_2
+    100050: Lamp
+    100052: Mesh_Armchair_03_401
+    100054: Mesh_Carpet_01_586
+    100056: Mesh_Carpet_03_472
+    100058: Mesh_CoffeeTable_02_395
+    100060: Mesh_Easel_404
+    100062: Mesh_Floor_Attic_7
+    100064: Mesh_Picture_02_13
+    100066: Mesh_Picture_4
+    100068: Mesh_Picture_7
+    100070: Mesh_RoundTable_478
+    100072: Mesh_Wall_Lamp_4
+    100074: ObjectAnalisis2
+    100076: ObjectAnalisis3
+    100078: ObjectAnalisis_2
+    100080: PointLight
+    100082: Porta_Cinematica
+    100084: Relogio
+    100086: SkeletalMesh
+    100088: SkeletalMesh 1
+    100090: SkeletalMesh 2
+    100092: SkeletalMesh 3
+    100094: SkeletalMesh 4
+    100096: SkeletalMeshComponent0
+    100098: SM_BookcaseC_76
+    100100: SM_Globe_321
+    100102: SM_LightChandelier2
+    100104: SM_LightChandelier_27
+    100106: SM_LightSconce2
+    100108: SM_LightSconce3
+    100110: SM_LightSconce_31
+    100112: SM_PaintingC3_82
+    100114: SM_PaintingC4
+    100116: SM_Phone
+    100118: SM_Phone 1
+    100120: SM_Phone 2
+    100122: SM_Phone 3
+    100124: SM_PlantA_595
+    100126: SM_PlantI_340
+    100128: SM_SalaParedes
+    100130: SM_SwitchA13_104
+    100132: StaticMesh
+    400000: BP_Book_Inspection9_4
+    400002: BP_Table_Lamp_6
+    400004: Camera
+    400006: Camera 1
+    400008: Camera 2
+    400010: Camera 3
+    400012: Camera 4
+    400014: Door
+    400016: Door 1
+    400018: Door 2
+    400020: Door 3
+    400022: Door 4
+    400024: //RootNode
+    400026: Handle
+    400028: Handle 1
+    400030: Handle 2
+    400032: Handle 3
+    400034: Handle 4
+    400036: InteractiveMirror_0
+    400038: joint1
+    400040: joint2
+    400042: KeyDoorSingle2_2
+    400044: KeyDoorSingle7
+    400046: KeyDoorSingle8
+    400048: KeyDoorSingle_2
+    400050: Lamp
+    400052: Mesh_Armchair_03_401
+    400054: Mesh_Carpet_01_586
+    400056: Mesh_Carpet_03_472
+    400058: Mesh_CoffeeTable_02_395
+    400060: Mesh_Easel_404
+    400062: Mesh_Floor_Attic_7
+    400064: Mesh_Picture_02_13
+    400066: Mesh_Picture_4
+    400068: Mesh_Picture_7
+    400070: Mesh_RoundTable_478
+    400072: Mesh_Wall_Lamp_4
+    400074: ObjectAnalisis2
+    400076: ObjectAnalisis3
+    400078: ObjectAnalisis_2
+    400080: PointLight
+    400082: Porta_Cinematica
+    400084: Relogio
+    400086: SkeletalMesh
+    400088: SkeletalMesh 1
+    400090: SkeletalMesh 2
+    400092: SkeletalMesh 3
+    400094: SkeletalMesh 4
+    400096: SkeletalMeshComponent0
+    400098: SM_BookcaseC_76
+    400100: SM_Globe_321
+    400102: SM_LightChandelier2
+    400104: SM_LightChandelier_27
+    400106: SM_LightSconce2
+    400108: SM_LightSconce3
+    400110: SM_LightSconce_31
+    400112: SM_PaintingC3_82
+    400114: SM_PaintingC4
+    400116: SM_Phone
+    400118: SM_Phone 1
+    400120: SM_Phone 2
+    400122: SM_Phone 3
+    400124: SM_PlantA_595
+    400126: SM_PlantI_340
+    400128: SM_SalaParedes
+    400130: SM_SwitchA13_104
+    400132: StaticMesh
+    2000000: Camera
+    2000002: Camera 1
+    2000004: Camera 2
+    2000006: Camera 3
+    2000008: Camera 4
+    2100000: Inst_Parquet
+    2100002: Inst_Concrete_01
+    2100004: Inst_Brick_01
+    2100006: M_Globe
+    2100008: M_Lights
+    2100010: M_Porcelain
+    2100012: M_Plants
+    2100014: Inst_RoundTable_02
+    2100016: Inst_Armchair_03
+    2100018: Inst_Easel
+    2100020: Inst_Picture_16
+    2100022: Inst_Carpet_05
+    2100024: Inst_RoundTable_01
+    2100026: Inst_Carpet_01
+    2100028: M_Iron
+    2100030: M_Bookcase
+    2100032: M_Books
+    2100034: M_FrameGold
+    2100036: M_PaintingC
+    2100038: Inst_Picture_Wood_01
+    2100040: Inst_Picture_04
+    2100042: Inst_Canvas
+    2100044: Inst_Picture_01
+    2100046: Inst_Picture_06
+    2100048: Inst_Table_Lamp
+    2100050: Inst_Plastic_Glossy_01
+    2100052: Inst_Chandelier
+    2100054: Inst_Wall_Lamp
+    2100056: Inst_Plastic_Glossy_02
+    2100058: M_WallA
+    2100060: M_Parquet
+    2100062: M_MBuilding04_MainFloor
+    2100064: M_Structure
+    2100066: M_DoorA
+    2100068: MI_PorcelainA
+    2100070: Inst_Picture_Gold_02
+    2100072: Inst_Glass_01
+    2100074: Familia
+    2100076: Grandfather_Clock_Default_32_Mat
+    2100078: M_Metal_Gold
+    2100080: M_Wood_Walnut
+    2100082: M_Phone
+    2100084: M_Switch
+    2100086: M_Mirror
+    2100088: Bits
+    2100090: Turnable
+    2100092: blinn1
+    2100094: Fbx Default Material 0
+    2300000: BP_Book_Inspection9_4
+    2300002: Lamp
+    2300004: Mesh_Armchair_03_401
+    2300006: Mesh_Carpet_01_586
+    2300008: Mesh_Carpet_03_472
+    2300010: Mesh_CoffeeTable_02_395
+    2300012: Mesh_Easel_404
+    2300014: Mesh_Floor_Attic_7
+    2300016: Mesh_Picture_02_13
+    2300018: Mesh_Picture_4
+    2300020: Mesh_Picture_7
+    2300022: Mesh_RoundTable_478
+    2300024: Mesh_Wall_Lamp_4
+    2300026: SM_BookcaseC_76
+    2300028: SM_Globe_321
+    2300030: SM_LightChandelier2
+    2300032: SM_LightChandelier_27
+    2300034: SM_LightSconce2
+    2300036: SM_LightSconce3
+    2300038: SM_LightSconce_31
+    2300040: SM_PaintingC3_82
+    2300042: SM_PaintingC4
+    2300044: SM_Phone
+    2300046: SM_Phone 1
+    2300048: SM_Phone 2
+    2300050: SM_Phone 3
+    2300052: SM_PlantA_595
+    2300054: SM_PlantI_340
+    2300056: SM_SalaParedes
+    2300058: StaticMesh
+    3300000: BP_Book_Inspection9_4
+    3300002: Lamp
+    3300004: Mesh_Armchair_03_401
+    3300006: Mesh_Carpet_01_586
+    3300008: Mesh_Carpet_03_472
+    3300010: Mesh_CoffeeTable_02_395
+    3300012: Mesh_Easel_404
+    3300014: Mesh_Floor_Attic_7
+    3300016: Mesh_Picture_02_13
+    3300018: Mesh_Picture_4
+    3300020: Mesh_Picture_7
+    3300022: Mesh_RoundTable_478
+    3300024: Mesh_Wall_Lamp_4
+    3300026: SM_BookcaseC_76
+    3300028: SM_Globe_321
+    3300030: SM_LightChandelier2
+    3300032: SM_LightChandelier_27
+    3300034: SM_LightSconce2
+    3300036: SM_LightSconce3
+    3300038: SM_LightSconce_31
+    3300040: SM_PaintingC3_82
+    3300042: SM_PaintingC4
+    3300044: SM_Phone
+    3300046: SM_Phone 1
+    3300048: SM_Phone 2
+    3300050: SM_Phone 3
+    3300052: SM_PlantA_595
+    3300054: SM_PlantI_340
+    3300056: SM_SalaParedes
+    3300058: StaticMesh
+    4300000: Mesh_Floor_Attic_7
+    4300002: SM_Globe_321
+    4300004: SM_LightSconce2
+    4300006: SM_PlantI_340
+    4300008: Mesh_CoffeeTable_02_395
+    4300010: Mesh_Armchair_03_401
+    4300012: Mesh_Easel_404
+    4300014: Mesh_Carpet_03_472
+    4300016: Mesh_RoundTable_478
+    4300018: Mesh_Carpet_01_586
+    4300020: SM_PlantA_595
+    4300022: SM_BookcaseC_76
+    4300024: SM_PaintingC3_82
+    4300026: SM_LightChandelier_27
+    4300028: Mesh_Picture_4
+    4300030: Mesh_Picture_7
+    4300032: Mesh_Picture_02_13
+    4300034: Lamp
+    4300036: Mesh_Wall_Lamp_4
+    4300038: SM_SalaParedes
+    4300040: SkeletalMeshComponent0
+    4300042: SM_Phone
+    4300044: SM_Phone
+    4300046: SM_Phone
+    4300048: SM_Phone
+    4300050: SkeletalMesh
+    4300052: StaticMesh
+    4300054: BP_Book_Inspection9_4
+    4300056: SkeletalMesh
+    4300058: SkeletalMesh
+    4300060: SkeletalMesh
+    4300062: SkeletalMesh
+    9500000: //RootNode
+    10800000: PointLight
+    13700000: SkeletalMesh
+    13700002: SkeletalMesh 1
+    13700004: SkeletalMesh 2
+    13700006: SkeletalMesh 3
+    13700008: SkeletalMesh 4
+    13700010: SkeletalMeshComponent0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
