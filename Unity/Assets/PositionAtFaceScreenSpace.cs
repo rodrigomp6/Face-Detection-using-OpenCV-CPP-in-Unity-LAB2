@@ -37,7 +37,6 @@ public class PositionAtFaceScreenSpace : MonoBehaviour
         distances[distancesArrayPos] = distance;
         if (distancesArrayPos >= 299)
         {
-            Debug.Log("Scare enabled");
             scareEnabled = true;
             distancesArrayPos = 0;
         }
